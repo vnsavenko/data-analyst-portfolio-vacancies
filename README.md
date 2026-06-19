@@ -46,7 +46,12 @@
   - Работа с оконными функциями и CTE в SQL
 
 ---
+**Визуализации:**
 
+![Вакансии по городам](vacancies_by_city.png)
+![Зарплата по опыту](salary_by_experience.png)
+![Топ навыков](top_skills.png)
+![Распределение зарплат](salary_distribution.png)
 ## 📫 Контакты
 - **Telegram:** VSavenko(https://t.me/VSavenko)
 - **Email:** vladimir_savenko@mail.ru
